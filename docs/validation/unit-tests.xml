@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.homeinventory.app.InventoryTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2026-10-27T16:21:20" hostname="4d860dc399f0" time="0.021">
+  <properties/>
+  <testcase name="populatedSpaceNeedsValidDifferentDestination" classname="com.homeinventory.app.InventoryTest" time="0.006"/>
+  <testcase name="itemsNeedPhotosAndPositiveQuantity" classname="com.homeinventory.app.InventoryTest" time="0.001"/>
+  <testcase name="restoreValidationRejectsDanglingReferencesAndDuplicateIds" classname="com.homeinventory.app.InventoryTest" time="0.001"/>
+  <testcase name="photoNamesRejectPathTraversal" classname="com.homeinventory.app.InventoryTest" time="0.0"/>
+  <testcase name="allIsReservedAndEmptyNameRejected" classname="com.homeinventory.app.InventoryTest" time="0.001"/>
+  <testcase name="renameSpacePreservesContainerAndItemReferences" classname="com.homeinventory.app.InventoryTest" time="0.001"/>
+  <testcase name="populatedContainerCannotBeDeleted" classname="com.homeinventory.app.InventoryTest" time="0.001"/>
+  <testcase name="emptySpacesRemainUntilExplicitlyDeleted" classname="com.homeinventory.app.InventoryTest" time="0.001"/>
+  <testcase name="invalidMoveLeavesOldLocation" classname="com.homeinventory.app.InventoryTest" time="0.001"/>
+  <testcase name="deletingPopulatedSpaceTransfersContainersWithoutTouchingItems" classname="com.homeinventory.app.InventoryTest" time="0.0"/>
+  <testcase name="coverIsIndependentOfItemPhotos" classname="com.homeinventory.app.InventoryTest" time="0.001"/>
+  <testcase name="searchUsesNameCategoryNotesAndFilters" classname="com.homeinventory.app.InventoryTest" time="0.003"/>
+  <testcase name="duplicateSpaceNamesRejectedAfterTrimming" classname="com.homeinventory.app.InventoryTest" time="0.001"/>
+  <testcase name="unnamedItemGetsReadableFallback" classname="com.homeinventory.app.InventoryTest" time="0.0"/>
+  <testcase name="moveUpdatesSearchResultLocationAndAllowsOldContainerDeletion" classname="com.homeinventory.app.InventoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+PASS: Atomic persistence survives reopening
+PASS: Full backup restores photos and references
+PASS: Path traversal rejected without changing data
+PASS: Missing backup photos rejected without changing data
+PASS: Photo imports are independent and resized
+PASS: Native home, container form, saved state and search
+
+PASS: Atomic persistence survives reopening
+PASS: Full backup restores photos and references
+PASS: Path traversal rejected without changing data
+PASS: Missing backup photos rejected without changing data
+PASS: Photo imports are independent and resized
+PASS: Native home, container form, saved state and search
+
+PASSED 6 integration checks
