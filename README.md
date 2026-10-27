@@ -4,7 +4,7 @@
 
 ## 下载与安装
 
-- [下载 APK 安装包](https://github.com/Lijunjie2023/home-store/releases/download/v0.1.0/home-inventory-0.1.0-debug.apk)
+- [下载 APK 安装包](https://github.com/Lijunjie2023/home-store/raw/refs/tags/v0.1.0/downloads/home-inventory-0.1.0-debug.apk)
 - [打开测试版发布页](https://github.com/Lijunjie2023/home-store/releases/tag/v0.1.0)
 
 将 APK 下载到安卓手机，用文件管理器打开，按系统提示安装。若电脑下载，可通过 USB 或其他文件传输方式发送到手机。
